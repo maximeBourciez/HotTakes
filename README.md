@@ -18,8 +18,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Commencez par cloner le dépôt Git de l'application sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-username/hottakes.git
-cd hottakes
+git clone https://github.com/maximeBourciez/HotTakes.git
+cd HotTakes
 ```
 
 ## 2. Installer les dépendances

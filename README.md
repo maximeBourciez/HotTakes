@@ -24,10 +24,11 @@ cd hottakes
 
 ## 2. Installer les dépendances
 
-Une fois dans le répertoire du projet, vous devez installer les dépendances PHP nécessaires. Utilisez Composer pour cela :
+Une fois dans le répertoire du projet, vous devez installer les dépendances PHP et Node nécessaires. Utilisez Composer et npm pour cela :
 
 ```bash
 composer install
+npm i
 ```
 
 ## 3. Configurer l'environnement

@@ -49,6 +49,11 @@ DB_CONNECTION=sqlite
 DB_DATABASE=/path/to/database/database.sqlite
 ```
 
+Et créez le fichier de la base de données : 
+```bash
+touch database/database.sqlite
+```
+
 
 Si vous utilisez SQLite, assurez-vous que le répertoire ```database``` existe et que le fichier ```database.sqlite``` est créé ou sera créé automatiquement par Laravel.
 
